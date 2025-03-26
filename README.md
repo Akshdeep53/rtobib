@@ -1,5 +1,5 @@
 # rtobib
-Simple program to convert .ris files in biblatex format. Multiple tags are available to the user. User can simply provide _input .ris files_ and name of the _output file_ (must have .bib extension) in which content of these input files will be converted into biblatex format. User can simply give path of the output file in there Latex file.
+Simple c++ program to convert .ris files in biblatex format. Multiple tags are available to the user. User can simply provide _input .ris files_ and name of the _output file_ (must have .bib extension) in which content of these input files will be converted into biblatex format. User can simply give path of the output file in there Latex file.
 
 # Installation
 Step 1: git clone the Repository<br/>
